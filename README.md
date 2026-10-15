@@ -1,37 +1,29 @@
 # Kennen Dietz
 
-Executive product leader and builder focused on humanity-centered systems, technical strategy, and zero-to-one execution.
+Product executive. I lead teams building medical devices, connected hardware, and cloud platforms, turning technical IP into commercial products.
+
+Most of my background is in regulated products and physical hardware, where reliability and human factors matter.
 
 ---
 
-### 🔭 Focus & Practice
-* **Product Strategy & Systems Architecture:** Translating complex operational challenges into scalable, human-centered product systems.
-* **Technical Operations & Delivery:** Bridging cross-functional technical teams, engineering workflows, and executive execution.
-* **Prototyping & Exploration:** Building autonomous workflows, intuitive human interfaces, and AI tooling integrations.
+### How I work
+
+I think the best product leaders understand how things are built.
+
+My day job is commercial strategy, venture validation, and team leadership. This GitHub is where I build tools for that work. I write code and use AI agents to automate research, handle operational legwork, and test ideas quickly.
+
+To me, AI is practical leverage when it produces real results, not a replacement for product judgment or customer diligence.
 
 ---
 
-### 🌱 Areas of Exploration
-* AI-assisted developer workflows & agentic automation
-* Distributed product operations & systems architecture
-* High-integrity, reliable software practices
+### Focus
+
+* Commercial product strategy and venture validation
+* Connected devices and regulated health tech
+* Practical automation and tooling for product teams
 
 ---
 
-### 📫 Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/kennendietz)
+### Connect
 
-<!--
-**kennendietz/kennendietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [LinkedIn](https://www.linkedin.com/in/kennendietz)
